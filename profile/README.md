@@ -1,5 +1,5 @@
 # MenthaMC
-一个主要鼓捣Minecraft的组织
+主要瞎鼓捣Minecraft
 
 ### 我们主要的项目
  - [Mint](https://www.github.com/MenthaMC/Mint)
