@@ -1,0 +1,8 @@
+# MenthaMC
+一个主要鼓捣Minecraft的组织
+
+### 我们主要的项目
+ - [Mint](https://www.github.com/MenthaMC/Mint)
+
+### 联系方式
+ - QQ群聊：[点击加入](https://qm.qq.com/q/RKzZJH4JKW)
