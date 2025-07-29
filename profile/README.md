@@ -1,7 +1,7 @@
 # MenthaMC
 ### 项目
  - [Mint](https://www.github.com/MenthaMC/Mint)
- - [LemonMint](https://www.github.com/MenthaMC/LemonMint)
+ - [LemonMint](https://www.github.com/MenthaMC/Lemint)
 
 ### 联系
  - QQ群聊：[点击加入](https://qm.qq.com/q/RKzZJH4JKW)
