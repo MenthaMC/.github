@@ -1,7 +1,7 @@
 # MenthaMC
 
 ### 文档
- - [https://menthamc.github,io/docs](https://menthamc.github,io/docs)
+ - [https://menthamc.github.io/docs](https://menthamc.github.io/docs)
 
 ### 项目
  - [Mint](https://www.github.com/MenthaMC/Mint)
