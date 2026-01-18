@@ -8,4 +8,4 @@
  - Discord：[点击加入](https://discord.com/invite/PK4YAtAHpr)
 
 ### 基础设施监控
- - uptime (https://uptime.menthamc.org/)
+ - [uptime] (https://uptime.menthamc.org/)
