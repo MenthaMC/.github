@@ -7,5 +7,7 @@
  - QQ群聊：[点击加入](https://qm.qq.com/q/RKzZJH4JKW)
  - Discord：[点击加入](https://discord.com/invite/PK4YAtAHpr)
 
-### 基础设施监控
+### 相关网站
+ - [官网](menthamc.org)
+ - [文档开发中……]
  - [Uptime](https://uptime.menthamc.org)
