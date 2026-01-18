@@ -10,4 +10,5 @@
 ### 相关网站
  - [官网](menthamc.org)
  - [文档开发中……]
+ - [logr.run](logr.run)
  - [Uptime](https://uptime.menthamc.org)
